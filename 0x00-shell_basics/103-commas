@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Fam | sort -d
+ls -pam | sort -d
