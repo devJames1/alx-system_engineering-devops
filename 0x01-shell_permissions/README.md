@@ -1,1 +1,1 @@
-# Exploring shell permissions, this readme will be updated
+# Shell scripts for permissions, adding users and more
