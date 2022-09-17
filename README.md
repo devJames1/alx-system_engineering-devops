@@ -1,6 +1,8 @@
 # System Engineering and Devops
 
-This repository contains programs and scripts primarily written in Bash and Python for the System Engineering and Devops curriculum at Holberton School.
+This repository contains programs and scripts primarily written in Bash and
+Python for the System Engineering and Devops curriculum at ALX Africa/Holberton
+Software Engineering School.
 
 | Project | Description |
 | :--- | :---|
