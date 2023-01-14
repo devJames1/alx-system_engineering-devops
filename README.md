@@ -1,12 +1,24 @@
-# System Engineering and Devops
+# System Engineering and DevOps
 
-Repository for programs and scripts mainly written in Bash and
-Python for the System Engineering and Devops curriculum at ALX Africa/Holberton
-Software Engineering School.
+This repository contains programs written for the system engineering and DevOps track at 'ALX Africa SE'. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. I learned about the OSI model and various Linux networking tools. 
+The specific list of projects contained follows:
 
-| Project | Description |
-| :--- | :---|
-| [0x00. Shell, basics ](./0x00-shell_basics) | File manipulation and folder navigation |
-| [0x01. Shell, permissions ](./0x01-shell_permissions) | Permission handling for users, groups and others |
-| [0x02. Shell, I/O Redirections and filters ](./0x02-shell_redirections) | Introduction to input/output streams in Linux |
-| [0x03. Shell, init files, variables and expansions ](./0x03-shell_variables_expansions) | Implementation of aliases and environmental variables |
+* [0x00. Shell, basics](./0x00-shell_basics)
+* [0x01. Shell, permissions](./0x01-shell_permissions)
+* [0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
+* [0x03. Shell, init files, variables and expansions](./0x03-shell_variables_expansions)
+
+## Author :black_nib:
+
+* __James Okolie__ <[devJames1](https://github.com/devJames1)>
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com/).
+
+<p align="center">
+  <img
+   src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+       alt="ALX Africa Logo"
+  >
+</p>
